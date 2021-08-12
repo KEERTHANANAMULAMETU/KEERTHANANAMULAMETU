@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KEERTHANANAMULAMETU
-- 👀 I’m interested in buiding data science  projects
+- 👀 I’m interested in building data science  projects
 - 🌱 I’m currently learning AI and ML
 
 <!---
